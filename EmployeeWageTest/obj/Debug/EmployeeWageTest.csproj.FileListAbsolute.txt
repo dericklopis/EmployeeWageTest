@@ -1,0 +1,8 @@
+C:\Users\91910\source\repos\EmployeeWageTest\EmployeeWageTest\bin\Debug\EmployeeWageTest.exe.config
+C:\Users\91910\source\repos\EmployeeWageTest\EmployeeWageTest\bin\Debug\EmployeeWageTest.exe
+C:\Users\91910\source\repos\EmployeeWageTest\EmployeeWageTest\bin\Debug\EmployeeWageTest.pdb
+C:\Users\91910\source\repos\EmployeeWageTest\EmployeeWageTest\obj\Debug\EmployeeWageTest.csproj.AssemblyReference.cache
+C:\Users\91910\source\repos\EmployeeWageTest\EmployeeWageTest\obj\Debug\EmployeeWageTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\91910\source\repos\EmployeeWageTest\EmployeeWageTest\obj\Debug\EmployeeWageTest.csproj.CoreCompileInputs.cache
+C:\Users\91910\source\repos\EmployeeWageTest\EmployeeWageTest\obj\Debug\EmployeeWageTest.exe
+C:\Users\91910\source\repos\EmployeeWageTest\EmployeeWageTest\obj\Debug\EmployeeWageTest.pdb
